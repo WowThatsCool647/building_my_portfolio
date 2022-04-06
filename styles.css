@@ -11,7 +11,10 @@ ul li {
     border-radius: 10px;
     border-color: chartreuse;
 }
-.tyle-size {
+.title-size {
         font-size: 44px;
         color: gold;
+}
+p {
+    font-size: 23px;
 }
