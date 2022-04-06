@@ -2,5 +2,16 @@ h1 {
     color: coral;
 }
 body {
-    background-color:darkslategrey
+    background-color:darkslategrey;
+}
+ul li {
+    color:firebrick;
+    font-size: 33px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: chartreuse;
+}
+.tyle-size {
+        font-size: 44px;
+        color: gold;
 }
